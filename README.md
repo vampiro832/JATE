@@ -1,2 +1,1 @@
-# JATE
-Note taker
+# Text Editor Starter Code
